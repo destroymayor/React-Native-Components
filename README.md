@@ -1,11 +1,11 @@
-#(1)單選、複選組件
+# (1)單選、複選組件
 
-[[react-native-select-multiple](https://github.com/tableflip/react-native-select-multiple) </br>
-[[react-native-multiple-select](https://github.com/toystars/react-native-multiple-select)</br>
-[[react-native-multiple-choice]](https://github.com/d-a-n/react-native-multiple-choice)</br>
-[[react-native-modest-checkbox]](https://github.com/tiaanduplessis/react-native-modest-checkbox)</br>
+[ [react-native-select-multiple] ](https://github.com/tableflip/react-native-select-multiple) </br>
+[ [react-native-multiple-select] ](https://github.com/toystars/react-native-multiple-select)</br>
+[ [react-native-multiple-choice] ](https://github.com/d-a-n/react-native-multiple-choice)</br>
+[ [react-native-modest-checkbox] ](https://github.com/tiaanduplessis/react-native-modest-checkbox)</br>
 
-#(2)Loading組件
+# (2)Loading組件
 
 [[react-native-loading-spinner-overlay]](https://github.com/niftylettuce/react-native-loading-spinner-overlay)</br>
 [[react-native-loading-w]](https://github.com/wenxucheng/react-native-loading-w)</br>
@@ -20,7 +20,8 @@
 [[react-native-button]](https://github.com/APSL/react-native-button)</br>
 
 #(5)輸入框
-[react-native-textinput-effects](https://github.com/halilb/react-native-textinput-effects)</br>
+
+[[react-native-textinput-effects]](https://github.com/halilb/react-native-textinput-effects)</br>
 
 #(6)側邊欄組件
 [react-native-drawer-layout](https://github.com/react-native-community/react-native-drawer-layout)</br>
