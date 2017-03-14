@@ -1,6 +1,6 @@
 # react-native 組件清單 #
 
-##(1)單選、複選組件##
+## (1)單選、複選組件 ##
 
 
 [ [react-native-select-multiple] ](https://github.com/tableflip/react-native-select-multiple) </br>
