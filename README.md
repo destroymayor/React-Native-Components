@@ -1,8 +1,8 @@
 #(1)單選、複選組件
-[react-native-select-multiple](https://github.com/tableflip/react-native-select-multiple)
-[react-native-multiple-select](https://github.com/toystars/react-native-multiple-select)
-[react-native-multiple-choice](https://github.com/d-a-n/react-native-multiple-choice)
-[react-native-modest-checkbox](https://github.com/tiaanduplessis/react-native-modest-checkbox)
+[react-native-select-multiple](https://github.com/tableflip/react-native-select-multiple) ＜/br＞ 
+[react-native-multiple-select](https://github.com/toystars/react-native-multiple-select)＜/br＞
+[react-native-multiple-choice](https://github.com/d-a-n/react-native-multiple-choice)＜/br＞
+[react-native-modest-checkbox](https://github.com/tiaanduplessis/react-native-modest-checkbox)＜/br＞
 
 #(2)Loading組件
 [react-native-loading-spinner-overlay](https://github.com/niftylettuce/react-native-loading-spinner-overlay)
