@@ -80,7 +80,8 @@
 
 ## (二) 功能 ##
 ### (1) 推播通知 ###
-[ [react-native-push-notification ★1163] ](https://github.com/zo0r/react-native-push-notification) 跨平台本地及遠程推播通知
+[ [react-native-push-notification ★1163] ](https://github.com/zo0r/react-native-push-notification) 跨平台本地及遠程推播通知</br>
+[ [react-native-notifications] ](https://github.com/wix/react-native-notifications) 跨平台本地及遠程推播通知
 
 ### (2) 本地儲存 ###
 [ [react-native-storage ★740] ](https://github.com/sunnylqm/react-native-storage/blob/master/README-CHN.md) 本地持久儲存
