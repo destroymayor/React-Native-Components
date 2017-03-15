@@ -2,20 +2,20 @@
 
 ## (一) UI組件 ##
 ### (1) 單選、複選組件 ###
-[ [react-native-select-multiple] ](https://github.com/tableflip/react-native-select-multiple) </br>
-[ [react-native-multiple-select] ](https://github.com/toystars/react-native-multiple-select)</br>
-[ [react-native-multiple-choice] ](https://github.com/d-a-n/react-native-multiple-choice)</br>
-[ [react-native-modest-checkbox] ](https://github.com/tiaanduplessis/react-native-modest-checkbox)
+一個可自定義的ListView且可複選[ [react-native-select-multiple] ](https://github.com/tableflip/react-native-select-multiple) </br>
+一個簡單的複選組件[ [react-native-multiple-select] ](https://github.com/toystars/react-native-multiple-select)</br>
+單選和複選的組件[ [react-native-multiple-choice] ](https://github.com/d-a-n/react-native-multiple-choice)</br>
+可定制複選框組件，支持將自定義圖像或組件設置為複選框[ [react-native-modest-checkbox] ](https://github.com/tiaanduplessis/react-native-modest-checkbox)
 
 ### (2) Loading組件 ###
-[ [react-native-loading-spinner-overlay] ](https://github.com/niftylettuce/react-native-loading-spinner-overlay)</br>
-[ [react-native-loading-w] ](https://github.com/wenxucheng/react-native-loading-w)</br>
-[ [react-native-progress-hud ]](https://github.com/naoufal/react-native-progress-hud)
+全螢幕的loading組件 [ [react-native-loading-spinner-overlay] ](https://github.com/niftylettuce/react-native-loading-spinner-overlay)</br>
+簡單的logaind組件[ [react-native-loading-w] ](https://github.com/wenxucheng/react-native-loading-w)</br>
+輕量級的loading組件[ [react-native-progress-hud ]](https://github.com/naoufal/react-native-progress-hud)
 
 ### (3) 選擇器 ###
-[ [react-native-modal-datetime-picker] ](https://github.com/mmazzarolo/react-native-modal-datetime-picker)</br>
-[ [react-native-wheel-picker] ](https://github.com/lesliesam/react-native-wheel-picker)</br>
-[ [react-native-picker] ](https://github.com/beefe/react-native-picker)</br>
+日期選擇器[ [react-native-modal-datetime-picker] ](https://github.com/mmazzarolo/react-native-modal-datetime-picker)</br>
+滾動選擇器[ [react-native-wheel-picker] ](https://github.com/lesliesam/react-native-wheel-picker)</br>
+高性能底部選擇器[ [react-native-picker] ](https://github.com/beefe/react-native-picker)</br>
 [ [react-native-picker-xg] ](https://github.com/xgfe/react-native-picker-xg)
 
 ### (4) 按鈕 ###
@@ -26,7 +26,7 @@
 [ [react-native-textinput-effects] ](https://github.com/halilb/react-native-textinput-effects)
 
 ### (6) 動畫 ###
-[ [(airbnb出品)lottie-react-native] ](https://github.com/airbnb/lottie-react-native)</br>
+Airbnb開源的動畫組件[ [lottie-react-native] ](https://github.com/airbnb/lottie-react-native)</br>
 [ [react-native-spinkit] ](https://github.com/maxs15/react-native-spinkit)</br>
 [ [react-native-animatable] ](https://github.com/oblador/react-native-animatable)
 
@@ -75,6 +75,8 @@
 ### (16) 解析HTML ###
 [ [react-native-htmlview] ](https://github.com/jsdf/react-native-htmlview)
 
+### (17)圖表 ###
+RN代碼對原生組件進行包裝的圖表組件[ [react-native-charts-wrapper] ](https://github.com/wuxudong/react-native-charts-wrapper)
 
 ## (二) 功能 ##
 ### (1) 推播通知 ###
