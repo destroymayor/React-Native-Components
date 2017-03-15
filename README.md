@@ -2,7 +2,6 @@
 
 ## (1)單選、複選組件 ##
 
-
 [ [react-native-select-multiple] ](https://github.com/tableflip/react-native-select-multiple) </br>
 [ [react-native-multiple-select] ](https://github.com/toystars/react-native-multiple-select)</br>
 [ [react-native-multiple-choice] ](https://github.com/d-a-n/react-native-multiple-choice)</br>
@@ -39,10 +38,10 @@
 [ [react-native-vector-icons] ](https://github.com/oblador/react-native-vector-icons)</br>
 
 
-## (8)Toast組件 ##
+## (8)弱提示組件 ##
 
 [ [React-Native-SnackBar-Component] ](https://github.com/SiDevesh/React-Native-SnackBar-Component)</br>
-
+[ [react-native-root-toast] ](https://github.com/magicismight/react-native-root-toast)</br> 
 
 ## (9)搜尋組件 ##
 
