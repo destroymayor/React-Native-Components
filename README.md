@@ -91,7 +91,7 @@ RN代碼對原生組件進行包裝的圖表組件[ [react-native-charts-wrapper
 錄音組件[ [react-native-audio ★321] ](https://github.com/jsierles/react-native-audio)
 
 ### (4) 後台工作 ###
-一個建構在react-native-background-fetch (僅適用iOS)與react-native-background-job (僅適用Android)的後台任務程序[ [react-native-background-task] ](https://www.npmjs.com/package/react-native-background-task)</br>
+一個建構在[ [react-native-background-fetch] ](https://github.com/transistorsoft/react-native-background-fetch)與[ [react-native-background-job] ](https://github.com/vikeri/react-native-background-job)[ [react-native-background-task] ](https://www.npmjs.com/package/react-native-background-task)</br>
 iOS的後台任務[ [react-native-background-fetch (僅適用iOS) ★74] ](https://github.com/transistorsoft/react-native-background-fetch)</br>
 Android計畫後台任務[ [react-native-background-job (僅適用Android) ★121] ](https://github.com/vikeri/react-native-background-job)
 
