@@ -2,10 +2,10 @@
 
 ## (一) UI組件 ##
 ### (1) 單選、複選組件 ###
-一個可自定義的ListView且可複選[ [react-native-select-multiple] ](https://github.com/tableflip/react-native-select-multiple) </br>
-一個簡單的複選組件[ [react-native-multiple-select] ](https://github.com/toystars/react-native-multiple-select)</br>
-單選和複選的組件[ [react-native-multiple-choice] ](https://github.com/d-a-n/react-native-multiple-choice)</br>
-可定制複選框組件，支持將自定義圖像或組件設置為複選框[ [react-native-modest-checkbox] ](https://github.com/tiaanduplessis/react-native-modest-checkbox)
+一個可自定義的ListView且可複選[ [react-native-select-multiple ★11] ](https://github.com/tableflip/react-native-select-multiple) </br>
+一個簡單的複選組件[ [react-native-multiple-select ★18] ](https://github.com/toystars/react-native-multiple-select)</br>
+單選和複選的組件[ [react-native-multiple-choice ★35] ](https://github.com/d-a-n/react-native-multiple-choice)</br>
+可定制複選框組件，支持將自定義圖像或組件設置為複選框[ [react-native-modest-checkbox ★8] ](https://github.com/tiaanduplessis/react-native-modest-checkbox)
 
 ### (2) Loading組件 ###
 全螢幕的loading組件 [ [react-native-loading-spinner-overlay] ](https://github.com/niftylettuce/react-native-loading-spinner-overlay)</br>
@@ -16,7 +16,7 @@
 日期選擇器[ [react-native-modal-datetime-picker] ](https://github.com/mmazzarolo/react-native-modal-datetime-picker)</br>
 滾動選擇器[ [react-native-wheel-picker] ](https://github.com/lesliesam/react-native-wheel-picker)</br>
 高性能底部選擇器[ [react-native-picker] ](https://github.com/beefe/react-native-picker)</br>
-[ [react-native-picker-xg] ](https://github.com/xgfe/react-native-picker-xg)
+下拉式底部選擇器組件[ [react-native-picker-xg] ](https://github.com/xgfe/react-native-picker-xg)
 
 ### (4) 按鈕 ###
 通過多種樣式自定義的按鈕組件 [ [react-native-button] ](https://github.com/APSL/react-native-button)</br>
@@ -27,8 +27,8 @@
 
 ### (6) 動畫 ###
 Airbnb開源的動畫組件[ [lottie-react-native] ](https://github.com/airbnb/lottie-react-native)</br>
-[ [react-native-spinkit] ](https://github.com/maxs15/react-native-spinkit)</br>
-[ [react-native-animatable] ](https://github.com/oblador/react-native-animatable)
+動畫loading組件集合[ [react-native-spinkit] ](https://github.com/maxs15/react-native-spinkit)</br>
+易於使用的聲明轉換動畫組件[ [react-native-animatable] ](https://github.com/oblador/react-native-animatable)
 
 ### (7) 導航 ###
 [ [react-native-tab-navigator] ](https://github.com/exponent/react-native-tab-navigator)</br>
