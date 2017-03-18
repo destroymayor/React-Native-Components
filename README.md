@@ -14,6 +14,8 @@
 
 ### (3) 選擇器 ###
 [ [react-native-modal-datetime-picker ★80] ](https://github.com/mmazzarolo/react-native-modal-datetime-picker) 日期選擇器</br>
+[ [react-native-dates ★23] ](https://github.com/werein/react-native-dates) 日期選擇器(可範圍選擇)</br>
+[ [react-native-day-picker ★52] ](https://github.com/ivanchenko/react-native-day-picker) 日期選擇器(可範圍選擇)</br>
 [ [react-native-wheel-picker ★53] ](https://github.com/lesliesam/react-native-wheel-picker) 滾動選擇器</br>
 [ [react-native-picker ★336] ](https://github.com/beefe/react-native-picker) 高性能底部選擇器</br>
 [ [react-native-picker-xg ★26] ](https://github.com/xgfe/react-native-picker-xg) 下拉式底部選擇器組件
